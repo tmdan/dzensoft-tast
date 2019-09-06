@@ -14,7 +14,7 @@
 
 - create a new database, call it dzensoft.test, and import the file dzensoft_test.sql from the dev folder
 
-- and last run the commands in the console one by one
+- If you have taken the previous step, you can skip this one. run the commands in the console one by one
 
 `php artisan migrate` and `php artisan db:seed`
 
